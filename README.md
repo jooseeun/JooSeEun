@@ -22,14 +22,3 @@ Here are some ideas to get you started:
 
 기술 스택 : C++ , directX , Win32 , Hlsl, openCV, openGL , python , GitHub, Notion
 
-
-
-### 🐸Study Notion
-
-### 🐸Study Git
-
-### 🐸Study Blog
-
-### 🐸기술 소개서
-
-
