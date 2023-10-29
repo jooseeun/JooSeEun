@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=Black&height=120&animation=fadeIn&section=footer&text=Tech_Portfolio🚗🚘🚛&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=pink&height=120&animation=fadeIn&section=footer&text=🐸JooSeEun_Tech_Portfolio🐸&fontAlign=50)
 
 <h4 align="center">🐸JooSeEun Tech Portfolio🐸
 
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Window32API-009020?style=flat-square&logo=Win32&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/DirectX11-FF4088?style=flat-square&logo=DirectX&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/GitGub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
   <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/></a>&nbsp
