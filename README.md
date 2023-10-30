@@ -32,7 +32,6 @@
 <h2 align="center">🌈 Follow Me 🌈</h3>
   <a href="https://blog.naver.com/joo5484"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/joo5484"/></a>
   <a href="mailto:joo5484@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=joo5484@gmail.com"/></a>
-  <a href="https://www.notion.so/STUDY-NOTE-21b0598635c74c98b715c85d5d86fb60?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/STUDY-NOTE-21b0598635c74c98b715c85d5d86fb60"/></a>
 
  <br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooseeun%2Fhit-counter&count_bg=%23E400FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
